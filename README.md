@@ -1,0 +1,4 @@
+# kaggle-competition
+Kaggleで使用したデータやPythonコードをまとめております。
+以下のコードがCommonLit_Evaluate_Student_Summariesのコンペに出場した際に最終上位１５%を獲得した際に提出したコードになります。
+CommonLit_Evaluate_Student_Summaries/commonlit-evaluate-student-summaries/commonlit-ess-lgbm-autocorrect-debe-final-submission-Code.ipynb
